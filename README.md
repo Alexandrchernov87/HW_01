@@ -39,4 +39,4 @@
 - Оформление GitHub
 - Фиксация и выкладка версий библиотек для воспроизводимости кода
 
-:arrow_up:[к оглавлению](https://github.com/Alexandrchernov87/HW_01/blob/main/README.mdОглавление)
+:arrow_up:[к оглавлению](https://github.com/Alexandrchernov87/HW_01/blob/main/README.md#Оглавление)
