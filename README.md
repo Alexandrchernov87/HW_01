@@ -12,7 +12,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Alexandrchernov87/HW_data_science/tree/main/Game/Readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Alexandrchernov87/HW_01/blob/main/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
